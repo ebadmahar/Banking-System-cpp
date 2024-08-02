@@ -31,7 +31,7 @@ This is a simple banking system implemented in C++ that allows users to manage t
    ```bash
    g++ bank.cpp
 2. **Run the Program**:
-3. To Run the program, Run the following command in your terminal:
+ To Run the program, Run the following command in your terminal:
    ```bash
    ./a.exe
 ***USAGE***
