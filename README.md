@@ -34,8 +34,7 @@ This is a simple banking system implemented in C++ that allows users to manage t
 3. To Run the program, Run the following command in your terminal:
    ```bash
    ./a.exe
-
-    **Usage**
+***USAGE***
 **User Operations**
 1. **Create Account**:
 
