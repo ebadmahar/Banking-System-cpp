@@ -20,7 +20,7 @@ This is a simple banking system implemented in C++ that allows users to manage t
 
 ## Files
 
-- `main.cpp`: The main source code for the banking system.
+- `bank.cpp`: The main source code for the banking system.
 - `users.txt`: Stores user information including usernames, passwords, and balances.
 - `managers.txt`: Stores manager credentials.
 
