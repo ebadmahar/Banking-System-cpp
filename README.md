@@ -46,23 +46,20 @@ Enter a new username and password.
 Select option 1 from the main menu.
 Enter your username and password.
 
-3. **Withdraw Funds**:
-
 After logging in, select option 1 from the user menu.
-Enter the amount to withdraw.
-
-4. **Deposit Funds**:
+_Enter the amount to withdraw._
 
 After logging in, select option 2 from the user menu.
-Enter the amount to deposit.
-
-5. **View Account Summary**:
+_Enter the amount to deposit._
 
 After logging in, select option 3 from the user menu.
-
-6. **Close Account**:
+_View Account Summary_
 
 After logging in, select option 4 from the user menu.
+_To Close Account_
+
+After logging in, select option 4 from the user menu.
+_To Logout_
 
 **Manager Operations**
 
@@ -71,15 +68,13 @@ After logging in, select option 4 from the user menu.
 Select option 3 from the main menu.
 Enter the manager's username and password.
 
-2. **View User List**:
-
+_View User List_
 After logging in as a manager, select option 1 from the manager menu.
 A list of users and their account details will be displayed.
-3. **Edit User Balance**:
 
+_Edit User Balance_
 After logging in as a manager, select option 2 from the manager menu.
 Enter the username of the account you wish to edit and the new balance.
 
-4.**Logout** :
-
+_Logout_
 After logging in as a manager, select option 3 from the manager menu to log out.
