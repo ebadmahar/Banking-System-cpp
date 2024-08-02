@@ -31,8 +31,9 @@ This is a simple banking system implemented in C++ that allows users to manage t
    ```bash
    g++ -o banking_system main.cpp
 2. **Run the Program**:
+```bash
     ./banking_system
-
+```
     **Usage**
 **User Operations**
 1. **Create Account**:
