@@ -47,18 +47,23 @@ Select option 1 from the main menu.
 Enter your username and password.
 
 After logging in, select option 1 from the user menu.
+
 _Enter the amount to withdraw._
 
 After logging in, select option 2 from the user menu.
+
 _Enter the amount to deposit._
 
 After logging in, select option 3 from the user menu.
+
 _View Account Summary_
 
 After logging in, select option 4 from the user menu.
+
 _To Close Account_
 
 After logging in, select option 4 from the user menu.
+
 _To Logout_
 
 **Manager Operations**
