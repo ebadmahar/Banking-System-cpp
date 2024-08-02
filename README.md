@@ -29,11 +29,10 @@ This is a simple banking system implemented in C++ that allows users to manage t
 1. **Compile the Program**:
    To compile the program, use a C++ compiler like `g++`. Run the following command in your terminal:
    ```bash
-   g++ -o banking_system main.cpp
+   g++ bank.cpp
 2. **Run the Program**:
-```bash
-    ./banking_system
-```
+```  ./a.exe ```
+
     **Usage**
 **User Operations**
 1. **Create Account**:
