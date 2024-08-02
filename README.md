@@ -55,9 +55,11 @@ Enter the amount to withdraw.
 
 After logging in, select option 2 from the user menu.
 Enter the amount to deposit.
+
 5. **View Account Summary**:
 
 After logging in, select option 3 from the user menu.
+
 6. **Close Account**:
 
 After logging in, select option 4 from the user menu.
