@@ -63,21 +63,23 @@ _To Logout_
 
 **Manager Operations**
 
-1. **Manager Login**:
+3. **Manager Login**:
 
 Select option 3 from the main menu.
 Enter the manager's username and password.
 
-**View User List**
+i) **View User List**
 
 After logging in as a manager, select option 1 from the manager menu.
 A list of users and their account details will be displayed.
 
-**Edit User Balance**
+ii) **Edit User Balance**
 
 After logging in as a manager, select option 2 from the manager menu.
 Enter the username of the account you wish to edit and the new balance.
 
-**Logout**
+iii) **Logout**
 
 After logging in as a manager, select option 3 from the manager menu to log out.
+
+4. **Exit**
