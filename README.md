@@ -68,13 +68,14 @@ _To Logout_
 Select option 3 from the main menu.
 Enter the manager's username and password.
 
-_View User List_
+
 After logging in as a manager, select option 1 from the manager menu.
 A list of users and their account details will be displayed.
+_View User List_
 
-_Edit User Balance_
 After logging in as a manager, select option 2 from the manager menu.
 Enter the username of the account you wish to edit and the new balance.
+_Edit User Balance_
 
-_Logout_
 After logging in as a manager, select option 3 from the manager menu to log out.
+_Logout_
